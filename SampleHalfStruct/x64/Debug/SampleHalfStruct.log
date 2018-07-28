@@ -1,0 +1,9 @@
+﻿  main.cpp
+h:\qtplace\samplehalfstruct\samplehalfstruct\cmymesh.h(190): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\qtplace\samplehalfstruct\samplehalfstruct\cmymesh.h(193): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\qtplace\samplehalfstruct\samplehalfstruct\cmymesh.h(196): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\qtplace\samplehalfstruct\samplehalfstruct\cmymesh.h(233): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+h:\qtplace\samplehalfstruct\samplehalfstruct\cmymesh.h(238): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+h:\qtplace\samplehalfstruct\samplehalfstruct\cmymesh.h(243): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  SampleHalfStruct.vcxproj -> H:\QTPLACE\SampleHalfStruct\x64\Debug\SampleHalfStruct.exe
+  SampleHalfStruct.vcxproj -> H:\QTPLACE\SampleHalfStruct\x64\Debug\SampleHalfStruct.pdb (Full PDB)
